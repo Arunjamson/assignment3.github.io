@@ -1,0 +1,82 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    height: 100%;
+}
+.container-fluid
+{
+    height: 80%;
+}
+.row
+{
+    height: 100%;
+}
+
+
+.MenuItem
+{
+    box-sizing: border-box;
+    background-color: burlywood;
+    border: solid black;
+    padding: 1px;
+    background-clip: padding-box;
+    margin-left: 4%;
+    margin-right: 4.25%;
+    margin-top: 20px;
+    
+}
+
+
+h1
+{
+    text-align: center;
+}
+
+.itemHeadLine
+{
+    margin: 0;
+    float: right;
+    width: auto;
+    border-left: solid black;
+    border-bottom: solid black;
+    background-color: cornsilk;
+}
+.ItemDescription
+{
+    clear: right;
+}
+nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    color: #951C49;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+  .navbar-header  button 
+  {
+      clear: both;
+      background-color:lightcoral;
+  }
+   .navbar-header .navbar-brand {
+    clear: both;
+   margin-top: -30px;
+  }
+  .navbar-header
+  {
+    background-color:whitesmoke ;
+    padding-top: -30px;
+ 
+  }
+  #nav-list
+  {
+      background-color: lightsalmon;
+  }
